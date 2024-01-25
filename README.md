@@ -2,4 +2,4 @@
 
 * from https://nextjs.org/learn/dashboard-app/setting-up-your-database*
 
-| learning next.js
+> learning next.js
