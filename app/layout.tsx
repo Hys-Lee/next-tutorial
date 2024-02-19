@@ -9,10 +9,10 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta
+        {/* <meta
           property="og:url"
           content="https://next-tutorial-bay-one.vercel.app/"
-        />
+        /> */}
         <meta property="og:title" content="넥스트 튜토리얼" />
         <meta property="og:description" content="설명설명" />
         <meta property="og:type" content="website" />
