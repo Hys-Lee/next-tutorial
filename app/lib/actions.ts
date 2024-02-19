@@ -109,7 +109,7 @@ export async function authenticate(
         case 'CredentialsSignin':
           return 'Invalid credentials.';
         default:
-          return `Soemthing went worng: ${error.message} ${error.name}`;
+          return `Soemthing went worng: ${error.message} ${error.type}`;
       }
     }
     throw error;
