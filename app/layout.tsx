@@ -19,7 +19,7 @@ export default function RootLayout({
         <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
         <meta
           property="og:image"
-          content="https://next-tutorial-bay-one.vercel.com/opengraph-image.png"
+          content="https://next-tutorial-bay-one.vercel.app/_next/opengraph-image.png"
         />
       </head>
       <body className={`${inter.className} antialiased`}>{children}</body>
